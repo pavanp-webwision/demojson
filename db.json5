@@ -1,0 +1,134 @@
+{
+  homePageData: {
+    internshipImpactAreas: [
+      {
+        title: 'Land and water protection',
+        image: 'https://placehold.co/1920x1080',
+        noOfInternships: 7,
+      },
+      {
+        title: 'Threatened species recovery',
+        image: 'https://placehold.co/1920x1080',
+        noOfInternships: 5,
+      },
+      {
+        title: 'Climate adaption',
+        image: 'https://placehold.co/1920x1080',
+        noOfInternships: 4,
+      },
+      {
+        title: 'Sustainable land use',
+        image: 'https://placehold.co/1920x1080',
+        noOfInternships: 2,
+      },
+      {
+        title: 'Indigenous land and sea management',
+        image: 'https://placehold.co/1920x1080',
+        noOfInternships: 0,
+      },
+    ],
+    internshipCategories: [
+      {
+        categoryTitle: 'Land and water protection 1',
+        noOfInternships: 7,
+      },
+      {
+        categoryTitle: 'Threatened species recovery 1',
+        noOfInternships: 5,
+      },
+      {
+        categoryTitle: 'Climate adaption 1',
+        noOfInternships: 4,
+      },
+      {
+        categoryTitle: 'Sustainable land use 1',
+        noOfInternships: 2,
+      },
+      {
+        categoryTitle: 'Indigenous land and sea management 1',
+        noOfInternships: 0,
+      },
+      {
+        categoryTitle: 'Indigenous land and sea management 2',
+        noOfInternships: 0,
+      },
+      {
+        categoryTitle: 'Land and water protection 2',
+        noOfInternships: 7,
+      },
+      {
+        categoryTitle: 'Threatened species recovery 2',
+        noOfInternships: 5,
+      },
+      {
+        categoryTitle: 'Climate adaption 2',
+        noOfInternships: 4,
+      },
+      {
+        categoryTitle: 'Sustainable land use 2',
+        noOfInternships: 2,
+      },
+    ],
+    hostOrganisations: [],
+    latestInternships: [
+      {
+        id: 1,
+        hostOrgLogo: 'https://placehold.co/600x400',
+        internshipTitle: 'TLC reserves officer internship',
+        hostOrgName: 'Tasmanian Land Conservancy',
+        internshipType: 'Remote',
+        description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto doloribus quisquam, explicabo, necessitatibus corporis eos perspiciatis deleniti ipsum doloremque, a eligendi tempora alias temporibus illum nobis et mollitia in debitis.',
+        impactArea: 'Climate adaptation and mitigation',
+        location: 1,
+        category: 'Science, research and knowledge',
+        skills: ['Communication', 'Data Management', 'Computer'],
+        postedAt: '',
+        closesOn: '',
+      },
+      {
+        id: 2,
+        hostOrgLogo: 'https://placehold.co/600x400',
+        internshipTitle: 'TLC reserves officer internship',
+        hostOrgName: 'Tasmanian Land Conservancy',
+        internshipType: 'Remote',
+        description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto doloribus quisquam, explicabo, necessitatibus corporis eos perspiciatis deleniti ipsum doloremque, a eligendi tempora alias temporibus illum nobis et mollitia in debitis.',
+        impactArea: 'Climate adaptation and mitigation',
+        location: 'Melbourne',
+        category: 'Science, research and knowledge',
+        skills: ['Communication', 'Data Management', 'Computer'],
+        postedAt: '',
+        closesOn: '',
+      },
+    ],
+  },
+  internships: [
+    {
+      id: 1,
+      hostOrgLogo: '/TLC.png',
+      internshipTitle: 'TLC reserves officer internship',
+      hostOrgName: 'Tasmanian Land Conservancy',
+      internshipType: 'Remote',
+      description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto doloribus quisquam, explicabo, necessitatibus corporis eos perspiciatis deleniti ipsum doloremque, a eligendi tempora alias temporibus illum nobis et mollitia in debitis.',
+      impactArea: 'Climate adaptation and mitigation',
+      location: 1,
+      category: 'Science, research and knowledge',
+      skills: ['Communication', 'Data Management', 'Computer'],
+      postedAt: '10',
+      closesOn: '11',
+    },
+    {
+      id: 2,
+      hostOrgLogo: '/TLC.png',
+      internshipTitle: 'TLC reserves officer internship',
+      hostOrgName: 'Tasmanian Land Conservancy',
+      internshipType: 'Remote',
+      description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto doloribus quisquam, explicabo, necessitatibus corporis eos perspiciatis deleniti ipsum doloremque, a eligendi tempora alias temporibus illum nobis et mollitia in debitis.',
+      impactArea: 'Climate adaptation and mitigation',
+      location: 'Melbourne',
+      category: 'Science, research and knowledge',
+      skills: ['Communication', 'Data Management', 'Computer'],
+      postedAt: '10',
+      closesOn: '11',
+    },
+  ],
+}
